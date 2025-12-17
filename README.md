@@ -150,6 +150,4 @@ The complete pipeline (preprocessing + classifier) is saved using `joblib`:
 ```python
 joblib.dump(final_model, "models/final_logistic_regression_model.pkl")
 
-## 📈 Cross-Validation Results (5-Fold Stratified)
 
-### Default Logistic Regression
